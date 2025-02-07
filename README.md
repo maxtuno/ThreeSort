@@ -1,10 +1,10 @@
 # Three Sort: An Efficient Hybrid Sorting Algorithm [AI Assisted Research - 2024 YR4 Mission]
 
-[![All Random](https://i.ytimg.com/an_webp/VJT6j-iyft4/mqdefault_6s.webp?du=3000&sqp=CPTBmL0G&rs=AOn4CLBK-HZFNdPDNzwnuDvY9PdU1_qUfA)](https://www.youtube.com/watch?v=VJT6j-iyft4 "All Random")
-[![Reversed](https://i.ytimg.com/an_webp/Pm024aCbaYE/mqdefault_6s.webp?du=3000&sqp=CLjVmL0G&rs=AOn4CLDQRahlA3NqBDpQpQRh_8FvGpSncQ)](https://youtu.be/Pm024aCbaYE "Reversed")
+[![Random](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-random.webp)](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-random-animation.mp4 "Random")
+[![Reversed](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-random.webp)](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-reversed-animation.mp4 "Reversed")
 
-[![Few Unique](https://i.ytimg.com/an_webp/b0MV-QufYgE/mqdefault_6s.webp?du=3000&sqp=CKrCmL0G&rs=AOn4CLAvHNqQgcBRFzLhwD2MxeYtC-Ltbg)](https://youtu.be/b0MV-QufYgE "All Random")
-[![Almost Sorted](https://i.ytimg.com/an_webp/g2SkcccD0As/mqdefault_6s.webp?du=3000&sqp=CNLOmL0G&rs=AOn4CLBlPYUQDgyEsGDFAG5z3TU3YC0-Lw)](https://youtu.be/g2SkcccD0As "All Random")
+[![Few Unique](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-few-unique.webp)](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-few-unique-animation.mp4 "Few Unique")
+[![Almost Sorted](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-almost-sorted.webp)](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-almost-sorted-animation.mp4 "Almost Sorted")
 
 ## Introduction
 
