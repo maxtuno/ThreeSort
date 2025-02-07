@@ -1,10 +1,10 @@
 # Three Sort: An Efficient Hybrid Sorting Algorithm [AI Assisted Research - 2024 YR4 Mission]
 
-[![All Random](https://i.ytimg.com/an_webp/VJT6j-iyft4/mqdefault_6s.webp?du=3000&sqp=COLAlr0G&rs=AOn4CLDw-BpwnFZvv-fYCkS3kVnaZOggrg)](https://www.youtube.com/watch?v=VJT6j-iyft4 "All Random")
-[![Reversed](https://i.ytimg.com/an_webp/Pm024aCbaYE/mqdefault_6s.webp?du=3000&sqp=CNKrlr0G&rs=AOn4CLDkzAjmOzCITLP1fIexWqXvZ9hxqw)](https://youtu.be/Pm024aCbaYE "Reversed")
+[![All Random](https://i.ytimg.com/an_webp/VJT6j-iyft4/mqdefault_6s.webp?du=3000&sqp=CPTBmL0G&rs=AOn4CLBK-HZFNdPDNzwnuDvY9PdU1_qUfA)](https://www.youtube.com/watch?v=VJT6j-iyft4 "All Random")
+[![Reversed](https://i.ytimg.com/an_webp/Pm024aCbaYE/mqdefault_6s.webp?du=3000&sqp=CLjVmL0G&rs=AOn4CLDQRahlA3NqBDpQpQRh_8FvGpSncQ)](https://youtu.be/Pm024aCbaYE "Reversed")
 
-[![Few Unique](https://i.ytimg.com/an_webp/b0MV-QufYgE/mqdefault_6s.webp?du=3000&sqp=CObLlr0G&rs=AOn4CLDaM4IwxhTdKOoQ7iweAXosDtSMXg)](https://youtu.be/b0MV-QufYgE "All Random")
-[![Almost Sorted](https://i.ytimg.com/an_webp/g2SkcccD0As/mqdefault_6s.webp?du=3000&sqp=CPrKlr0G&rs=AOn4CLDVnG52qS8Hq2uwJYdxvlOpA9fopg)](https://youtu.be/g2SkcccD0As "All Random")
+[![Few Unique](https://i.ytimg.com/an_webp/b0MV-QufYgE/mqdefault_6s.webp?du=3000&sqp=CKrCmL0G&rs=AOn4CLAvHNqQgcBRFzLhwD2MxeYtC-Ltbg)](https://youtu.be/b0MV-QufYgE "All Random")
+[![Almost Sorted](https://i.ytimg.com/an_webp/g2SkcccD0As/mqdefault_6s.webp?du=3000&sqp=CNLOmL0G&rs=AOn4CLBlPYUQDgyEsGDFAG5z3TU3YC0-Lw)](https://youtu.be/g2SkcccD0As "All Random")
 
 ## Introduction
 
