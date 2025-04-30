@@ -1,4 +1,4 @@
-# Three Sort: An Efficient Hybrid Sorting Algorithm [AI Assisted Research - 2024 YR4 Mission]
+# Three Sort: An Efficient Hybrid Sorting Algorithm
 
 [![Random](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-random.webp)](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-random-animation.mp4 "Random")
 [![Reversed](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-random.webp)](https://raw.githubusercontent.com/maxtuno/ThreeSort/refs/heads/main/all-reversed-animation.mp4 "Reversed")
